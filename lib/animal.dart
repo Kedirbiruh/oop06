@@ -24,12 +24,12 @@ class Goldfish extends Fish {
   @override
   void makeSound() {
     print("blub blub");
+  }
 
-    @override
+  @override
     void breatheUnderWater() {
       print("Goldfisch atmet unter dem Wasser");
     }
-  }
 }
 
 abstract class CanFly {
