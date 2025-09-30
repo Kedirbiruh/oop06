@@ -1,4 +1,4 @@
-import 'package:oop06/animal.dart';
+import '../lib/animal.dart';
 
 void main() {
   var goldy = Goldfish();
